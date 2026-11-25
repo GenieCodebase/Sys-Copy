@@ -1,5 +1,6 @@
 # Sys Copy
 
+**Version:** 0.1  
 **Created by:** Genie Codebase [GC]  
 **Repository:** https://github.com/GenieCodebase/Sys-Copy  
 **YouTube:** https://youtube.com/@geniecodebase?si=16ZkbBJPVI7Cv4U2
@@ -24,9 +25,10 @@
 
 ## Project Files
 
-* `sys_copy.py` — Main application source code.
+* `sys_copy.py` — Main application source code (`v0.1`).
+* `Sys-Copy-v0.1.iss` — Inno Setup 7 script for building the Windows installer (`Sys-Copy-v0.1-Setup.exe`).
 * `icon.png` — Application icon loaded from the same directory as the script or executable.
-* `icon.ico` — Icon file used for packaging and installer builds.
+* `icon.ico` — Icon file used by the Windows installer executable (`SetupIconFile`).
 
 ---
 
